@@ -16,3 +16,7 @@ This is a small collection of Rainmeter skins that I have created for a display 
 * RAM usage & total
 * Time & Date
 * Horizontal bar
+
+
+<img src="https://github.com/AceGK/Hal9000-Rainmeter/blob/main/%40Resources/hal9000-screenshot.jpg" width="400" >
+<img src="https://github.com/AceGK/Hal9000-Rainmeter/blob/main/%40Resources/hal9000-PC.jpg" width="400" >
