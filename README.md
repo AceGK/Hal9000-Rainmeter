@@ -1,6 +1,6 @@
 # Hal9000 Themed PC Performance Monitor for Rainmeter
 
-This is a small collection of Rainmeter skins that I have created for a display screen inside my Hal9000 themed PC case. It includes skins that I have created from scratch and some that I have rewritten to fit the theme. 
+This is a collection of Rainmeter skins for a hardware monitor display screen inside my Hal9000 themed PC case. It includes skins that I have created from scratch and some that I have rewritten to fit the theme. 
 
 * *[Rainmeter](https://www.rainmeter.net/), [CoreTemp](https://www.alcpu.com/CoreTemp/), and [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) are required*
 
